@@ -1,0 +1,43 @@
+<!-- Marker principali -->
+<div class="main-marker" style="left: 10%;" data-era="medieval" data-states='[
+  {"state": "EG", "text": "L&apos;uomo si è generato in africa durante la preistoria, proseguita fino all&apos;invenzione della scrittura."}
+]' data-label="IVmillennioa.C. Preistoria"></div>
+
+<div class="main-marker" style="left: 15%;" data-era="medieval" data-states='[
+  {"state": "GR", "text": "grecia"}
+]' data-label="776a.C. Grecia"></div>
+
+<div class="main-marker" style="left: 23%;" data-states='[
+  {"state": "IT", "text": "L impero romano incomincia convenzionalmente nel 27 a.C., con l ascesa al potere di Augusto"}
+]' data-label="27a.C. ImperoRomano"></div>
+
+<div class="main-marker" style="left: 50%;" data-era="medieval" data-states='[
+  {"state": "IT", "text": "https://file.garden/Z_Dm4xCb9VvMuwIt/inizio-medioevo.pdf"}
+]' data-label="476d.C. Medioevo"></div>
+
+<div class="main-marker" style="left: 70%;" data-era="medieval" data-states='[
+  {"state": "US", "text": "L italiano Cristoforo Colombo rese note le americhe all europa in una spedizione voluta dalla Spagna."}
+]' data-label="1492d.C. ScopertaAmeriche fineMedioevo"></div>
+
+<div class="main-marker" style="left: 90%;" data-era="modern" data-states='[
+  {"state": "FR", "text": "rivoluzione francese"}
+]' data-label="EtàContemporanea"></div>
+
+<!-- Marker dettagliati -->
+<div class="detailed-marker" style="left: 20%;" data-era="medieval" data-states='[
+  {"state": "IT", "text": "Dettaglio Medioevale 1"},
+  {"state": "DE", "text": "Dettaglio Medioevale 2"}
+]' data-label="avvenimento"></div>
+
+<div class="detailed-marker" style="left: 99%;" data-era="medieval" data-states='[
+  {"state": "IT", "text": "Dettaglio Medioevale 1"},
+  {"state": "DE", "text": "Dettaglio Medioevale 2"}
+]' data-label="Oggi"></div>
+
+<!-- Marker segmento -->
+<div class="segment-marker" data-start="3" data-end="18" data-submarkers='[{"offset":20,"text":"testo","title":"primo tutilu"},{"offset":30,"text":"evento interessante","title":"altro"}]'></div>
+<div class="segment-marker" data-start="50" data-end="60" data-submarkers='[{"offset":20,"text":"qualcosa","title":"secondo titolo"},{"offset":30,"text":"evento interessante","title":"primo titolo"}]'></div>
+
+<div class="main-marker" style="left: 60%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot;l&amp;apos;almanacco dissi solo per l&amp;apos;accento&quot;}]' data-label="hehehe"></div>
+
+<div class="main-marker" style="left: 65%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot; è si che l&amp;apos;aprstrofo apostrofa &amp;apos;&amp;apos;&amp;apos; si&quot;}]' data-label="hiha"></div>
