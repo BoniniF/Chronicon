@@ -44,4 +44,4 @@
 
 <div class="main-marker" style="left: 60%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot;https://raw.githubusercontent.com/BoniniF/Chronicon/main/PDFs/TEST.pdf&quot;}]' data-label="pdffff"></div>
 
-<div class="main-marker" style="left: 80%" data-states='[{"state": "IT", "text": "Dettaglio Medioevale 1"}]' data-label="tg"></div>
+<div class="main-marker" style="left: 80%" data-states='[{"state": "IT", "text": "https://raw.githubusercontent.com/BoniniF/Chronicon/main/PDFs/TEST.pdf"}]' data-label="tg"></div>
