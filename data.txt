@@ -47,3 +47,5 @@
 <div class="main-marker" style="left: 80%" data-states='[{"state": "IT", "text": "https://boninif.github.io/Chronicon/PDFs/TEST.pdf"}]' data-label="tg"></div>
 
 <div class="main-marker" style="left: 65%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot;https://BoniniF.github.io/Chronicon/PDFs/TEST(22).pdf&quot;}]' data-label="vavavavavvavavvava"></div>
+
+<div class="main-marker" style="left: 67%" data-states='[{"state":"IT","text":"cappunto di prova dicevo. l&apos;almanacco iao, reputo ci sia di prova..."}]' data-label="HEHEHEHEHEHE"></div>
