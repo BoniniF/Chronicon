@@ -43,3 +43,5 @@
 <div class="main-marker" style="left: 65%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot; è si che l&amp;apos;aprstrofo apostrofa &amp;apos;&amp;apos;&amp;apos; si&quot;}]' data-label="hiha"></div>
 
 <div class="main-marker" style="left: 60%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot;https://raw.githubusercontent.com/BoniniF/Chronicon/main/PDFs/TEST.pdf&quot;}]' data-label="pdffff"></div>
+
+<div class="main-marker" style="left: 70%" data-states='[{&quot;state&quot;:&quot;test&quot;,&quot;text&quot;:&quot;tg&quot;}]' data-label="tg"></div>
