@@ -38,10 +38,6 @@
 <div class="segment-marker" data-start="3" data-end="18" data-submarkers='[{"offset":20,"text":"testo","title":"primo tutilu"},{"offset":30,"text":"evento interessante","title":"altro"}]'></div>
 <div class="segment-marker" data-start="50" data-end="60" data-submarkers='[{"offset":20,"text":"qualcosa","title":"secondo titolo"},{"offset":30,"text":"evento interessante","title":"primo titolo"}]'></div>
 
-<div class="main-marker" style="left: 60%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot;l&amp;apos;almanacco dissi solo per l&amp;apos;accento&quot;}]' data-label="hehehe"></div>
-
-<div class="main-marker" style="left: 65%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot; è si che l&amp;apos;aprstrofo apostrofa &amp;apos;&amp;apos;&amp;apos; si&quot;}]' data-label="hiha"></div>
-
 <div class="main-marker" style="left: 60%" data-states='[{&quot;state&quot;:&quot;IT&quot;,&quot;text&quot;:&quot;https://raw.githubusercontent.com/BoniniF/Chronicon/main/PDFs/TEST.pdf&quot;}]' data-label="pdffff"></div>
 
 <div class="main-marker" style="left: 80%" data-states='[{"state": "IT", "text": "https://boninif.github.io/Chronicon/PDFs/TEST.pdf"}]' data-label="tg"></div>
